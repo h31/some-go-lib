@@ -1,5 +1,3 @@
-// +build windows
-
 package package1
 
 import _ "golang.org/x/sync/semaphore"
